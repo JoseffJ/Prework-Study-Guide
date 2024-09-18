@@ -1,8 +1,5 @@
 <<<<<<< HEAD
 # Prework Study Guide Webpage
-=======
-# Preowork Study Guide Webpage
->>>>>>> ae711ec243fa2e15d5cf1c592da3daef635736dd
 
 ## Description
 
